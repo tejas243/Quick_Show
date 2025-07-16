@@ -1,12 +1,22 @@
-# React + Vite
+🎬 Movie Show Website - React.js
+A modern and responsive Movie Show Web App built using React.js and powered by the TMDB API. Users can search for movies, view detailed information, and explore trending and popular movies with an intuitive UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+🔍 Search Movies by title
 
-Currently, two official plugins are available:
+🎞️ Trending, Popular & Upcoming movie listings
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📽️ Movie Details Page with:
 
-## Expanding the ESLint configuration
+Poster & Backdrop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Overview & Ratings
+
+Release Date, Language, Genres
+
+📱 Responsive UI for mobile and desktop
+
+🌙 Optional Dark Mode
+
+⚡ Fast performance using reusable React components
+
